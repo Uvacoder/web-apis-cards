@@ -57,7 +57,7 @@ function Header() {
         <div className=" tw-flex tw-items-center">
           <IconButton
             as="a"
-            href="https://github.com/atapas/webapis-playground"
+            href="https://github.com/uvacoder/web-apis"
             rel="noopener noreferrer"
             target="_blank"
             ariaLabel="Source code"
